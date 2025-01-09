@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swilson750
 - 👀 I’m interested in ... Animal Activism, Social Justice
-- 🌱 I’m currently learning ... Python, SQL, JavaScript, etc 
+- 🌱 I’m currently learning ... Java!!!
 - 💞️ I’m looking to collaborate on ... coming soon!
 - 📫 How to reach me ...email!
 - 😄 Pronouns: ... She/Her
